@@ -65,7 +65,7 @@
    <td align="center"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sejin Park</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hojin Jang</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/ZhongdanBae"><img src="https://avatars.githubusercontent.com/u/128568951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jongchan Bae</b></a><br><a href="https://solved.ac/songwugi700"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=songwugi700" /></sub></a><br /></td>
-   <td align="center"><a href="https://github.com/JiHyeonSu"><img src="https://avatars.githubusercontent.com/u/129194613?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hyunsu Jee</b></a><br><a href="https://solved.ac/ch01"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=ch01" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/JiHyeonSu"><img src="https://avatars.githubusercontent.com/u/129194613?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hyeunsu Ji</b></a><br><a href="https://solved.ac/boreum"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=boreum" /></sub></a><br /></td>
   </tr>
 </table>
 
