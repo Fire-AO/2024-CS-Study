@@ -61,7 +61,7 @@
 ## 스터디원
 <table>
   <tr>
-   <td align="center"><a href="https://github.com/jeheecheon"><img src="https://avatars.githubusercontent.com/u/62019774?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jehee Cheon</b></a><br><a href="https://solved.ac/kjb512"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kjb512" /></sub></a><br /></td>
+   <td align="center"><a href="https://github.com/jeheecheon"><img src="https://avatars.githubusercontent.com/u/62019774?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jehee Cheon</b></a><br><a href="https://solved.ac/jeheecheom"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jeheecheom" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/sejineer"><img src="https://avatars.githubusercontent.com/u/95167215?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sejin Park</b></a><br><a href="https://solved.ac/qkrtpwls025"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=qkrtpwls025" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/hojinida"><img src="https://avatars.githubusercontent.com/u/96263955?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hojin Jang</b></a><br><a href="https://solved.ac/opqrs1107"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=opqrs1107" /></sub></a><br /></td>
    <td align="center"><a href="https://github.com/ZhongdanBae"><img src="https://avatars.githubusercontent.com/u/128568951?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jongchan Bae</b></a><br><a href="https://solved.ac/songwugi700"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=songwugi700" /></sub></a><br /></td>
